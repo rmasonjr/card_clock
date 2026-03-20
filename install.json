@@ -1,0 +1,10 @@
+{
+    "VersionDependent": "",
+    "CardFile": "card_clock.html",
+    "ContentFiles": [
+        {
+            "FileName": "preview.png",
+            "OverWrite": true
+        }
+    ]
+}
